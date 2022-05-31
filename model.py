@@ -1,3 +1,4 @@
+# CODIGO UTILIZADO EXTRAIDO DE: https://github.com/python-engineer/snake-ai-pytorch
 import torch
 import torch.optim as optim
 import torch.nn.functional as F

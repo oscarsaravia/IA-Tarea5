@@ -1,3 +1,4 @@
+# CODIGO UTILIZADO EXTRAIDO DE: https://github.com/python-engineer/snake-ai-pytorch
 from IPython import display
 import matplotlib.pyplot as plt
 

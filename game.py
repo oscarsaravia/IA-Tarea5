@@ -1,3 +1,4 @@
+# CODIGO UTILIZADO EXTRAIDO DE: https://github.com/python-engineer/snake-ai-pytorch
 import pygame
 import random
 from enum import Enum

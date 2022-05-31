@@ -1,3 +1,4 @@
+# CODIGO UTILIZADO EXTRAIDO DE: https://github.com/python-engineer/snake-ai-pytorch
 from collections import deque
 from game import SGNN, Direction, Point
 from model import Linear_Qnet, QTrainer
